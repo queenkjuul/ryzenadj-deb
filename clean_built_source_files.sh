@@ -7,3 +7,4 @@ rm *_source.ppa.upload
 rm *.dsc
 rm *.deb
 rm *_amd64*
+rm build/
