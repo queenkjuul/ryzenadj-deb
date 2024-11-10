@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 10 Nov 2024 04:39:27 -0600
+Source: ryzenadj
+Built-For-Profiles: noudeb
+Architecture: source
+Version: 0.16.0-qkj3ubuntu1
+Distribution: oracular
+Urgency: low
+Maintainer: queenkjuul <queenkjuul@pm.me>
+Changed-By: queenkjuul <queenkjuul@pm.me>
+Changes:
+ ryzenadj (0.16.0-qkj3ubuntu1) oracular; urgency=low
+ .
+   * Sync with upstream version 0.16.0
+Checksums-Sha1:
+ 19b0734fd2a9f72bdf0640bfd0f6673d90131d91 1517 ryzenadj_0.16.0-qkj3ubuntu1.dsc
+ 349039eb1ccb8d1b4b925f2101c3c1caf9f2ca70 552004 ryzenadj_0.16.0.orig.tar.xz
+ 3f6a32b84379ed7c358614486657030ab00543cc 2948 ryzenadj_0.16.0-qkj3ubuntu1.debian.tar.xz
+ 24adeffc9272db22c86d6c16cd97da45077d787a 8215 ryzenadj_0.16.0-qkj3ubuntu1_source.buildinfo
+Checksums-Sha256:
+ 418e5e4bb9d78aca296b50e4a75af6e57c55792dc213ec41ff08e2bf8b04303d 1517 ryzenadj_0.16.0-qkj3ubuntu1.dsc
+ 079f635f854069380f75234977fc5376e05d7d50d7860fcb6b692644bd593996 552004 ryzenadj_0.16.0.orig.tar.xz
+ a7f41781b7241b41675f0f8b9c7356eb8bfd7716a4493d1d8b1d686d055a3b40 2948 ryzenadj_0.16.0-qkj3ubuntu1.debian.tar.xz
+ 2817c822055d975cb946c65915460ce6c310f24aeb1d06007b94a994f9ba67d9 8215 ryzenadj_0.16.0-qkj3ubuntu1_source.buildinfo
+Files:
+ 08fa22b79ea37c52ffbcb24507a0dfc6 1517 admin optional ryzenadj_0.16.0-qkj3ubuntu1.dsc
+ 208d023bfe18816a52ecd4c5075ea861 552004 admin optional ryzenadj_0.16.0.orig.tar.xz
+ 41ba6ae54829845384a48e1a0b0fb29c 2948 admin optional ryzenadj_0.16.0-qkj3ubuntu1.debian.tar.xz
+ dd126e7e1fb8caa560c2876eea24012e 8215 admin optional ryzenadj_0.16.0-qkj3ubuntu1_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFFBAEBCgAvFiEECNrppnYh0fd5bhmAs3Yem+5dP5QFAmcwjWgRHHF1ZWVua2p1
+dWxAcG0ubWUACgkQs3Yem+5dP5SD/ggAjCb0FJF8XPwmxirrWIArsrYE/SWPYUCz
+J+kcZ1crCAJQnEYfAFazUBSp6BYPqFvjYmwuGT91BpqKNQqStK/pLmpbDFg2e35q
+b0QBfkskt7apB32p+ijhUlsPSU7XArdK/A0r4NiMSUecIF0575N4wF12ZUipBPmA
+lHK4N3xsov/MhQs1I/mAQcGOk53JrWsTrR1NiswiM3OJW8Ot4XFgpkzpK5cRhZJ5
+PYCreoiXrkWNJjYCO5ffNdbELVslFvlfLbLX+iL2mD08DiuHd6HxeljS+5AOWI+o
+vwRGGZEIkIA3GCvJC1J4Cs5xrDRlkTIAkm2ugHPrmUqWQAF64pj/rA==
+=Et9d
+-----END PGP SIGNATURE-----
